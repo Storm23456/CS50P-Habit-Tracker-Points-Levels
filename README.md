@@ -1,5 +1,7 @@
 # Habit Tracker: Points & Levels
 
+<img width="1011" height="783" alt="CS50P_Certificate" src="https://github.com/user-attachments/assets/56a3ef2d-0624-42b1-8ec7-e5ed8d9bc266" />
+
 #### Description:
 
 This is my final project for HarvardX CS50P. It reads your habits and their point values from `habits.txt`, and your daily completions from `tracker.txt`. You can view stats for any month or all time, see how many times each habit was done, your total points, and your current level. Each new level requires more points than the last.
